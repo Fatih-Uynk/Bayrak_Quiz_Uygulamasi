@@ -34,9 +34,3 @@ Projeyi yerel ortamınızda çalıştırmak için şu adımları izleyin:
 3. Karşınıza çıkan bayrağın hangi ülkeye ait olduğunu tahmin edin.
 4. Doğru veya yanlış cevabınıza göre puan kazanın ya da kaybedin.
 5. Oyun sonunda toplam puanınızı görüntüleyin.
-
-## Ekran Görüntüleri
-
-![Ana Ekran](C:\Users\Fatih\Pictures\Screenshots\giris_ekrani.png)
-![Quiz Ekranı](C:\Users\Fatih\Pictures\Screenshots\quiz_ekrani.png)
-![Sonuç Ekranı](C:\Users\Fatih\Pictures\Screenshots\sonuc_ekrani.png)
