@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bayrak_Quiz_Uygulamasi</string>
+    <string name="welcome_message">Hoşgeldiniz</string>
+    <string name="start_quiz">Quize Başla</string>
+    <string name="settings">Ayarlar</string>
+    <string name="exit">Çıkış</string>
+    <string name="correct_answer">Doğru Cevap!</string>
+    <string name="wrong_answer">Yanlış Cevap!</string>
+    <string name="try_again">Tekrar Dene</string>
+    <string name="score">Puan</string>
+</resources>

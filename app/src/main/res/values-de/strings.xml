@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flaggen-Quiz</string>
+    <string name="welcome_message">Willkommen</string>
+    <string name="start_quiz">Quiz Starten</string>
+    <string name="settings">Einstellungen</string>
+    <string name="exit">Beenden</string>
+    <string name="correct_answer">Richtige Antwort!</string>
+    <string name="wrong_answer">Falsche Antwort!</string>
+    <string name="try_again">Erneut Versuchen</string>
+    <string name="score">Punktzahl</string>
+</resources>
